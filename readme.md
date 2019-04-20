@@ -15,6 +15,6 @@ body: {"token":"J0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ"}
 return: {"token":"J0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ"}
 
 
-To Authentication
+To Authentication in all urls
 
 headers: {"Authorization": "JWT J0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ"}
